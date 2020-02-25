@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc74f31d-228e-4a0f-af35-b8c20795c929" name="Default Changelist" comment="" />
+    <list default="true" id="cc74f31d-228e-4a0f-af35-b8c20795c929" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582596184395</updated>
-      <workItem from="1582596188932" duration="1148000" />
+      <workItem from="1582596188932" duration="2997000" />
+      <workItem from="1582615491112" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="haha">
       <created>1582596738255</created>
@@ -74,5 +79,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="509" y="265" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1582596350251" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1582615882973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582615882973" />
   </component>
 </project>
